@@ -38,10 +38,6 @@
   <li><a href="https://aaai.org/Conferences/AAAI-23/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2021-2024</autocolor></a></li>
   <li><a href="https://ijcai-23.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021-2023</autocolor></a></li>
   <li><a href="https://2022.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2021-2023</autocolor></a></li>  
-  <!--
-  <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
-  <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
-  -->
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
