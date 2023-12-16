@@ -11,8 +11,8 @@
 title: Dumbarton 
 email: 
 description: a minimalistic jekyll theme for academics
-baseurl:"https://universea.github.io/"                                       # the subpath of your site, e.g. /blog
-url: "https://github.com/universea/universea.github.io/tree/main"          # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:                                       # the subpath of your site, e.g. /blog
+url: "https://universea.github.io/"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/dumbarton.png               # used to generate site link preview
 image_alt: A minimalistic jekyll theme for academic    # image description
 
