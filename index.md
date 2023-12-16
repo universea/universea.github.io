@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the Department of Mechanical and Industrial En
 My research lies at the intersection of **micro-/nano robotics** and **artificial intelligence** --with a special focus on biomedical applications. My research interests include **reinforcement learning**, **computer vision**, ,**LLM agents**, , **generative models**, **3D Reconstruction**, and **genetics interaction**.
 
 
-{% include_relative _includes/news.md %}
+<!-- {% include_relative _includes/news.md %} -->
 
 <!-- {% include_relative _includes/publications.md %}
 
@@ -19,6 +19,6 @@ My research lies at the intersection of **micro-/nano robotics** and **artificia
 
 {% include_relative _includes/talks.md %} -->
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
 
 {% include_relative _includes/contact.md %}
