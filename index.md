@@ -4,7 +4,7 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Short Bio</h2>
+<h2 style="margin: 60px 0px 10px;">Bio</h2>
 
 I am currently a Ph.D. student in the Department of Mechanical and Industrial Engineering at [University of Toronto](https://www.utoronto.ca/). I am fortunate to work with [Prof. Xinyu Liu](https://liulab.mie.utoronto.ca/). 
 

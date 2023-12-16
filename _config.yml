@@ -13,7 +13,7 @@ canonical: https://universea.github.io/
 description: Pengsong Zhang is a Ph.D. student at University of Toronto. His research lies in micro-/nano robotics, reinforcement learning, computer vision and LLM agents.
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
