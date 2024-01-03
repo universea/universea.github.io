@@ -2,6 +2,15 @@
 
 <h2 style="margin: 60px 0px 10px;">Services</h2>
 
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41"><autocolor>IEEE Transactions on Industrial Electronics (TIE)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856"><autocolor>IEEE Transactions on Automation Science and Engineering (TASE)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7729"><autocolor>IEEE Transactions on Nanotechnolo (TNANO)</autocolor></a></li>
+</ul>
+
+
 <!-- <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
@@ -39,11 +48,3 @@
   <li><a href="https://ijcai-23.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021-2023</autocolor></a></li>
   <li><a href="https://2022.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2021-2023</autocolor></a></li>  
 </ul> -->
-
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41"><autocolor>IEEE Transactions on Industrial Electronics (TIE)</autocolor></a></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856"><autocolor>IEEE Transactions on Automation Science and Engineering (TASE)</autocolor></a></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7729"><autocolor>IEEE Transactions on Nanotechnolo (TNANO)</autocolor></a></li>
-</ul>
