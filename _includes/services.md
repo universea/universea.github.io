@@ -14,7 +14,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://case2023.org/"><autocolor> IEEE CASE 2023</autocolor></a></li>
-</ul> -->
+</ul>
 
 
 
