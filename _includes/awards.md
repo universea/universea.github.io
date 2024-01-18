@@ -1,7 +1,8 @@
-<h1 id="competitions"></h1>
+<h1 id="awards"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Competitions</h2>
+<h2 style="margin: 60px 0px 10px;">Awards</h2>
 
+<h4 style="margin:0 10px 0;">Competitions</h4>
 <ul>
   <li>
     <a href="https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=1"><autocolor>Lane Line Recognition-China HUALU Cup Data Lake Algorithm Competition</autocolor></a>, (Autonomous driving, Computer vision), Second prize, 2020
@@ -17,5 +18,12 @@
   </li>
   <li>
     <a href="http://jiangnan.ihwrm.com/index/article/articleinfo.html?doc_id=1535124"><autocolor>TI Cup-National College Student Electronic Design Invitational Competition</autocolor></a>, (Embedded system, analog/digital signal processing), First prize, 2016
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Honors</h4>
+<ul>
+  <li>
+    <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%BC%A0%E9%B9%8F%E6%9D%BE"><autocolor>PaddlePaddle Developers Experts</autocolor></a>, 2020
   </li>
 </ul>

@@ -21,7 +21,7 @@ My research lies at the intersection of **micro-/nano robotics** and **artificia
 
 {% include_relative _includes/talks.md %}
 
-{% include_relative _includes/competitions.md %}
+{% include_relative _includes/awards.md %}
 
 {% include_relative _includes/teaching.md %}
 
