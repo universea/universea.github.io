@@ -24,6 +24,15 @@
 <h4 style="margin:0 10px 0;">Honors</h4>
 <ul>
   <li>
+    Department of Mechanical & Industrial Engineering, University of Toronto, Fellowship, 2023
+  </li>
+  <li>
     <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%BC%A0%E9%B9%8F%E6%9D%BE"><autocolor>PaddlePaddle Developers Experts</autocolor></a>, 2020
+  </li>
+  <li>
+    Xinjie Electric Scholarship, 2020
+  </li>
+  <li>
+    Bosch Technology Innovation Team Award, 2017
   </li>
 </ul>
