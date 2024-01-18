@@ -11,11 +11,11 @@
   </li>
   <li>
     <a href="https://star.baidu.com/#/news-info?tab=3&id=621579FECC16B9D39F0725B1D973F3C0"><autocolor>Baidu Star Artificial Intelligence Developer Competition<autocolor></a>, (Lightweight model, Computer vision), First place, 2019
-  </li>  
+  </li>
   <li>
     <a href="https://news.jiangnan.edu.cn/info/1074/58017.htm"><autocolor>Huawei Cup-The 15th China Graduate Mathematical Contest in Modeling<autocolor></a>, (Mathematical modeling), First prize, 2018
-  </li>  
+  </li>
   <li>
     <a href="http://jiangnan.ihwrm.com/index/article/articleinfo.html?doc_id=1535124"><autocolor>TI Cup-National College Student Electronic Design Invitational Competition<autocolor></a>, (Embedded system, analog/digital signal processing), First prize, 2016
-  </li>  
+  </li>
 </ul>
