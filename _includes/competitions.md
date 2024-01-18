@@ -19,9 +19,9 @@
     <a href="http://jiangnan.ihwrm.com/index/article/articleinfo.html?doc_id=1535124"><autocolor>TI Cup-National College Student Electronic Design Invitational Competition<autocolor></a>, (Embedded system, analog/digital signal processing), First prize, 2016
   </li>  
   <li>
-    Electronic design competition of Jiangsu Province, (Electronic design and automatic control), Second Prize, 2016
+    <a href="http://jiangnan.ihwrm.com/index/article/articleinfo.html?doc_id=1535124"><autocolor>Electronic design competition , Jiangsu Province<autocolor></a>, (Electronic design and automatic control), Second Prize, 2016
   </li>  
   <li>
-    NXP cup smart car competition, (Electronic design and automatic control), Second prize, 2016
+    <a href="http://jiangnan.ihwrm.com/index/article/articleinfo.html?doc_id=1535124"><autocolor>NXP cup smart car competition<autocolor></a>, (Electronic design and automatic control), First prize, 2016
   </li>  
 </ul>
