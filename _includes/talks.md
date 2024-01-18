@@ -6,5 +6,5 @@
 <h4 style="margin:0 10px 0;">Micro-/nano robotics.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.ted.com/tedx/events/39036"><autocolor>TedX: Think Beyond Now, Wuxi China, July 2020.</autocolor></a></li>
+  <li><a href="https://www.ted.com/tedx/events/39036"><autocolor>TedX: Think Beyond Now, Wuxi China, July 2020</autocolor></a></li>
 </ul>
