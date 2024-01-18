@@ -1,5 +1,10 @@
 <h1 id="competitions"></h1>
-
+<style>
+  /* 禁用链接颜色更改 */
+  a {
+    color: inherit;
+  }
+</style>
 <h2 style="margin: 60px 0px 10px;">Competitions</h2>
 
 <ul>
@@ -16,6 +21,6 @@
     <a href="https://news.jiangnan.edu.cn/info/1074/58017.htm">Huawei Cup-The 15th China Graduate Mathematical Contest in Modeling</a>, (Mathematical modeling), First prize, 2018
   </li>  
   <li>
-    <a href="https://news.jiangnan.edu.cn/info/1074/58017.htm">TI Cup-National College Student Electronic Design Invitational Competition.</a>, (Embedded system, analog/digital signal processing), First prize, 2016
+    <a href="http://jiangnan.ihwrm.com/index/article/articleinfo.html?doc_id=1535124">TI Cup-National College Student Electronic Design Invitational Competition.</a>, (Embedded system, analog/digital signal processing), First prize, 2016
   </li>  
 </ul>
