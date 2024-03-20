@@ -19,7 +19,6 @@ My research lies at the intersection of **micro-/nano robotics** and **artificia
 
 {% include_relative _includes/talks.md %} -->
 
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/talks.md %}
 
