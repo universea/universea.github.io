@@ -8,6 +8,13 @@ main:
     bibtex: https://bib.yliu.me/arXiv23_1.txt
     image: ./assets\teaser\TIE22.png
 
+  - title: Dynamic magnetic field generation with high accuracy modeling applied to magnetic robots
+    authors: Qigao Fan, <strong>Pengsong Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Juntian Qu, Wentao Huang, Xinyu Liu, Linbo Xie <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    conference_short: TMAG
+    conference: IEEE Transactions on Magnetics <strong>(TMAG)</strong>, Volume 57, Number 7, 2021.
+    pdf: https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
+    bibtex: https://bib.yliu.me/arXiv23_1.txt
+    image: ./assets\teaser\TMAG21.png
   # - title: Adding 3D Geometry Control to Diffusion Models
   #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
   #   conference_short: Preprint
