@@ -6,7 +6,7 @@ main:
     conference: IEEE Transactions on Industrial Electronics <strong>(TIE)</strong>, Volume 70, Number 10, 2022.
     pdf: https://liulab.mie.utoronto.ca/wp-content/uploads/J105_Qigao_TIE.pdf
     bibtex: https://bib.yliu.me/arXiv23_1.txt
-    image: https://github.com/universea/universea.github.io/blob/main/assets/teaser/TIE22.png
+    image: ./assets\teaser\TIE22.png
 
   # - title: Adding 3D Geometry Control to Diffusion Models
   #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
