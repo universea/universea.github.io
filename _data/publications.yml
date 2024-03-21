@@ -15,6 +15,14 @@ main:
     pdf: https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
     bibtex: ./assets\teaser\TMAG21.txt
     image: ./assets\teaser\TMAG21.png
+
+  - title: 3D Swarm
+    authors: <strong>Pengsong Zhang</strong>, Xinyu Liu
+    conference_short: SA
+    conference: Science Advances <strong>(SA)</strong> 2024 Under review.
+    pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
+    bibtex: None #./assets\teaser\TMAG21.txt
+    image: None #./assets\teaser\TMAG21.png
   # - title: Adding 3D Geometry Control to Diffusion Models
   #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
   #   conference_short: Preprint
