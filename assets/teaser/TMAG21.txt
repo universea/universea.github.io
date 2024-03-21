@@ -1,0 +1,10 @@
+@article{fan2021dynamic,
+  title={Dynamic magnetic field generation with high accuracy modeling applied to magnetic robots},
+  author={Fan, Qigao and Zhang, Pengsong and Qu, Juntian and Huang, Wentao and Liu, Xinyu and Xie, Linbo},
+  journal={IEEE Transactions on Magnetics},
+  volume={57},
+  number={7},
+  pages={1--10},
+  year={2021},
+  publisher={IEEE}
+}

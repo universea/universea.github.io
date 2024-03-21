@@ -1,0 +1,10 @@
+@article{cui2022novel,
+  title={Novel coil array design and modeling for independent control of multiple magnetic microrobots},
+  author={Cui, Guangming and Zhang, Pengsong and Liu, Xinyu and Xie, Linbo and Huang, Wentao and Pan, Peng and Qu, Juntian and Fan, Qigao},
+  journal={IEEE Transactions on Industrial Electronics},
+  volume={70},
+  number={10},
+  pages={10302--10311},
+  year={2022},
+  publisher={IEEE}
+}
