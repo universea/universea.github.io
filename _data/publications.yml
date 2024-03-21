@@ -1,7 +1,7 @@
 main:
 
   - title: Novel coil array design and modeling for independent control of multiple magnetic microrobots
-    authors: Guangming Cui, Pengsong Zhang, Xinyu Liu, Linbo Xie, Wentao Huang, Peng Pan, Juntian Qu, Qigao Fan, <strong>Pengsong Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Qigao Fan <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    authors: Guangming Cui, <strong>Pengsong Zhang</strong>, Xinyu Liu, Linbo Xie, Wentao Huang, Peng Pan, Juntian Qu, <strong>Qigao Fan<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Qigao Fan <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: TIE
     conference: IEEE Transactions on Industrial Electronics <strong>(TIE)</strong>, Volume 70, Number 10, 2022.
     pdf: https://liulab.mie.utoronto.ca/wp-content/uploads/J105_Qigao_TIE.pdf
