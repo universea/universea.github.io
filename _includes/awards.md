@@ -24,7 +24,7 @@
 <h4 style="margin:0 10px 0;">Honors</h4>
 <ul>
   <li>
-    Barbara And Frank Milligan Graduate Fellowships, Fellowship, 2024
+    Barbara And Frank Milligan Graduate Fellowships, 2024
   </li>
   <li>
     Department of Mechanical & Industrial Engineering, University of Toronto, Fellowship, 2023
