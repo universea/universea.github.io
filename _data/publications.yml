@@ -19,11 +19,11 @@ main:
   - title: Boundary-free 3D (xxx)
     authors: <strong>Pengsong Zhang</strong>, Peng Pan, Shaojia Wang, Runze Zuo, Tiancong Wang, Wentian Tang, Yuhang Wang, Mingzhe Sun, Qiwu Zhang, Yuxiao Zhou, Yu Sun, Xinyu Liu
     conference_short: CSME
-    conference: Canadian Society for Mechanical Engineering <strong>(CSME)</strong> 2024 ID 241.
+    conference: Canadian Society for Mechanical Engineering <strong>(CSME)</strong>, ID 241, 2024.
     # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
     # bibtex: None #./assets\teaser\TMAG21.txt
     image: ./assets\teaser\csme_conf.png
-    
+
   - title: 3D microrobot (xxx)
     authors: <strong>Pengsong Zhang</strong>, (xxx)
     conference_short: SA
