@@ -30,7 +30,7 @@ main:
     conference: Canadian Society for Mechanical Engineering <strong>(CSME)</strong> 2024 Accepted.
     # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
     # bibtex: None #./assets\teaser\TMAG21.txt
-    image: ./assets\teaser\under-review.png
+    image: ./assets\teaser\csme_conf.png
 
   - title: 3D reconstruction of model organisms
     authors: <strong>Pengsong Zhang</strong>, (xxx)
