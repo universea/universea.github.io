@@ -35,7 +35,7 @@ main:
   - title: 3D reconstruction of model organisms
     authors: <strong>Pengsong Zhang</strong>, (xxx)
     conference_short: Research
-    conference: Science Partner Journal- Research <strong>(PNAS)</strong> 2024 Under review.
+    conference: Science Partner Journal <strong>(Research)</strong> 2024 Under review.
     # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
     # bibtex: None #./assets\teaser\TMAG21.txt
     image: ./assets\teaser\under-review.png
