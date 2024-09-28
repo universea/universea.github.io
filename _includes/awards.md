@@ -8,7 +8,7 @@
     <a href="https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=1"><autocolor>Lane Line Recognition-China HUALU Cup Data Lake Algorithm Competition</autocolor></a>, (Autonomous driving, Computer vision), Second prize, 2020
   </li>
   <li>
-    <a href="https://www.sohu.com/a/359357887_505818"><autocolor>Lip Language Recognition, XIAOMI & XINWANG Bank Chuangqingchun · Jiaozi Cup Competition</autocolor></a>, (Time series data recognition, Computer vision), First place, 2019
+    <a href="https://www.sohu.com/a/359357887_505818"><autocolor>Lip Language Recognition, XIAOMI & XINWANG Bank Chuangqingchun · Jiaozi Cup Competition</autocolor></a>, (Time series data recognition, Computer vision), <strong>First place<strong>, 2019
   </li>
   <li>
     <a href="https://star.baidu.com/#/news-info?tab=3&id=621579FECC16B9D39F0725B1D973F3C0"><autocolor>Baidu Star Artificial Intelligence Developer Competition</autocolor></a>, (Lightweight model, Computer vision), First place, 2019

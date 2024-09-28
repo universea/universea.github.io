@@ -1,5 +1,22 @@
 main:
 
+
+  - title: Robotic Manipulation of small organism xxxx
+    authors: xxx, xxx, <strong>Pengsong Zhang</strong>, (xxx), etc.
+    conference_short: NC
+    conference: Nature Communications <strong>(NC)</strong> 2024 Accept.
+    # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
+    # bibtex: None #./assets\teaser\TMAG21.txt
+    image: ./assets\teaser\under-review.png
+
+  - title: Boundary-free 3D (xxx)
+    authors: <strong>Pengsong Zhang</strong>, Peng Pan, Shaojia Wang, Runze Zuo, Tiancong Wang, Wentian Tang, Yuhang Wang, Mingzhe Sun, Qiwu Zhang, Yuxiao Zhou, Yu Sun, Xinyu Liu
+    conference_short: CSME
+    conference: Canadian Society for Mechanical Engineering <strong>(CSME)</strong>, ID 241, 2024.
+    # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
+    # bibtex: None #./assets\teaser\TMAG21.txt
+    image: ./assets\teaser\csme_conf.png
+
   - title: Novel coil array design and modeling for independent control of multiple magnetic microrobots
     authors: Guangming Cui, <strong>Pengsong Zhang</strong>, Xinyu Liu, Linbo Xie, Wentao Huang, Peng Pan, Juntian Qu, Qigao Fan
     conference_short: TIE
@@ -16,13 +33,6 @@ main:
     bibtex: ./assets\teaser\TMAG21.txt
     image: ./assets\teaser\TMAG21.png
 
-  - title: Boundary-free 3D (xxx)
-    authors: <strong>Pengsong Zhang</strong>, Peng Pan, Shaojia Wang, Runze Zuo, Tiancong Wang, Wentian Tang, Yuhang Wang, Mingzhe Sun, Qiwu Zhang, Yuxiao Zhou, Yu Sun, Xinyu Liu
-    conference_short: CSME
-    conference: Canadian Society for Mechanical Engineering <strong>(CSME)</strong>, ID 241, 2024.
-    # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
-    # bibtex: None #./assets\teaser\TMAG21.txt
-    image: ./assets\teaser\csme_conf.png
 
   - title: 3D microrobot (xxx)
     authors: <strong>Pengsong Zhang</strong>, (xxx)
@@ -40,13 +50,7 @@ main:
     # bibtex: None #./assets\teaser\TMAG21.txt
     image: ./assets\teaser\under-review.png
 
-  - title: Robotic Manipulation of small organism xxxx
-    authors: xxx, xxx, <strong>Pengsong Zhang</strong>, (xxx), etc.
-    conference_short: NC
-    conference: Nature Communications <strong>(NC)</strong> 2024 Accept.
-    # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
-    # bibtex: None #./assets\teaser\TMAG21.txt
-    image: ./assets\teaser\under-review.png
+
 
   # - title: Adding 3D Geometry Control to Diffusion Models
   #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
