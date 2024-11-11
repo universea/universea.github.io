@@ -1,13 +1,21 @@
 main:
 
 
-  - title: Robotic Manipulation of small organism xxxx
-    authors: xxx, xxx, <strong>Pengsong Zhang</strong>, (xxx), etc.
+  - title: Robotic microinjection enables large-scale transgenic studies of Caenorhabditis elegans
+    authors: Peng Pan, Michael Zoberman, <strong>Pengsong Zhang</strong> et al.
     conference_short: NC
-    conference: Nature Communications <strong>(NC)</strong> 2024 Accept.
+    conference: Nature Communications <strong>(NC)</strong>, 15, Article number 8848, 2024.
     # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
     # bibtex: None #./assets\teaser\TMAG21.txt
     image: ./assets\teaser\under-review.png
+
+  - title: High-Resolution Imaging and Morphological Phenotyping of C. elegans through Stable Robotic Sample Rotation and Artificial Intelligence-Based 3-Dimensional Reconstruction
+    authors: Peng Pan, <strong>Pengsong Zhang</strong>, Sharanja Premachandran et al.
+    conference_short: Research
+    conference: Science Partner Journal <strong>(Research)</strong>, Vol 7, Article ID 0513, 2024.
+    # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
+    # bibtex: None #./assets\teaser\TMAG21.txt
+    image: ./assets\teaser\research-3d.jpg
 
   - title: Boundary-free 3D (xxx)
     authors: <strong>Pengsong Zhang</strong>, Peng Pan, Shaojia Wang, Runze Zuo, Tiancong Wang, Wentian Tang, Yuhang Wang, Mingzhe Sun, Qiwu Zhang, Yuxiao Zhou, Yu Sun, Xinyu Liu
@@ -42,13 +50,6 @@ main:
     # bibtex: None #./assets\teaser\TMAG21.txt
     image: ./assets\teaser\under-review.png
 
-  - title: 3D reconstruction of model organisms
-    authors: <strong>Pengsong Zhang</strong>, (xxx)
-    conference_short: Research
-    conference: Science Partner Journal <strong>(Research)</strong> 2024 Under review.
-    # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
-    # bibtex: None #./assets\teaser\TMAG21.txt
-    image: ./assets\teaser\under-review.png
 
 
 
