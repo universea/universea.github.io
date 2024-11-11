@@ -7,7 +7,7 @@ main:
     conference: Nature Communications <strong>(NC)</strong>, 15, Article number 8848, 2024.
     # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
     # bibtex: None #./assets\teaser\TMAG21.txt
-    image: ./assets\teaser\NC-injection.jpg
+    image: ./assets\teaser\NC-injection2024.jpg
 
   - title: High-Resolution Imaging and Morphological Phenotyping of C. elegans through Stable Robotic Sample Rotation and Artificial Intelligence-Based 3-Dimensional Reconstruction
     authors: Peng Pan*, <strong>Pengsong Zhang*</strong>, Sharanja Premachandran et al. <br> (* Equal contribution)
