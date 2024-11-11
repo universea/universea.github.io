@@ -10,7 +10,7 @@ main:
     image: ./assets\teaser\under-review.png
 
   - title: High-Resolution Imaging and Morphological Phenotyping of C. elegans through Stable Robotic Sample Rotation and Artificial Intelligence-Based 3-Dimensional Reconstruction
-    authors: Peng Pan, <strong>Pengsong Zhang</strong>, Sharanja Premachandran et al.
+    authors: Peng Pan, <strong>Pengsong Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Sharanja Premachandran et al. <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Equal contribution)
     conference_short: Research
     conference: Science Partner Journal <strong>(Research)</strong>, Vol 7, Article ID 0513, 2024.
     # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
