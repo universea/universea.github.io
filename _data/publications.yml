@@ -53,7 +53,7 @@ main:
     authors: <strong>Pengsong Zhang</strong>, Heng Zhang
     conference_short: Github
     conference: A collection of important papers to the field of AI and Robot Scientist, 2024.
-    pdf: https://github.com/universea/Awesome-AI-Scientist-Papers
+    # pdf: https://github.com/universea/Awesome-AI-Scientist-Papers
     # bibtex: None #./assets\teaser\TMAG21.txt
     image: ./assets\teaser\awesome-ai-scientist.jpg
 
