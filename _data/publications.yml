@@ -49,13 +49,13 @@ main:
     # bibtex: None #./assets\teaser\TMAG21.txt
     image: ./assets\teaser\under-review.png
 
-  - title: Awesome AI Scientist Papers
-    authors: <strong>Pengsong Zhang</strong>, Heng Zhang
-    conference_short: Github
-    conference: A collection of important papers to the field of AI Scientist and Robot Scientist, Github Repos, 2024.
-    # pdf: https://github.com/universea/Awesome-AI-Scientist-Papers
-    # bibtex: None #./assets\teaser\TMAG21.txt
-    image: ./assets\teaser\awesome-ai-scientist.jpg
+  # - title: Awesome AI Scientist Papers
+  #   authors: <strong>Pengsong Zhang</strong>, Heng Zhang
+  #   conference_short: Github
+  #   conference: A collection of important papers to the field of AI Scientist and Robot Scientist, Github Repos, 2024.
+  #   # pdf: https://github.com/universea/Awesome-AI-Scientist-Papers
+  #   # bibtex: None #./assets\teaser\TMAG21.txt
+  #   image: ./assets\teaser\awesome-ai-scientist.jpg
 
   # - title: Autonomous Generalist Scientist - Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)
   #   authors: Pengsong Zhang, Alfredo Pearson, Zhenting Wang
