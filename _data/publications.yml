@@ -54,7 +54,7 @@ main:
     conference_short: Preprint
     conference: Researchgate, 2024.
     pdf: http://dx.doi.org/10.13140/RG.2.2.35148.01923
-    # bibtex: ./assets\teaser\TMAG21.txt
+    bibtex: ./assets\teaser\AGS.txt
     image: ./assets\teaser\ags-preprint.png
 
   - title: Awesome AI Scientist Papers
