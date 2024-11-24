@@ -49,21 +49,23 @@ main:
     # bibtex: None #./assets\teaser\TMAG21.txt
     image: ./assets\teaser\under-review.png
 
-  # - title: Awesome AI Scientist Papers
-  #   authors: <strong>Pengsong Zhang</strong>, Heng Zhang
-  #   conference_short: Github
-  #   conference: A collection of important papers to the field of AI Scientist and Robot Scientist, Github Repos, 2024.
-  #   # pdf: https://github.com/universea/Awesome-AI-Scientist-Papers
-  #   # bibtex: None #./assets\teaser\TMAG21.txt
-  #   image: ./assets\teaser\awesome-ai-scientist.jpg
+  - title: Autonomous Generalist Scientist - Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)
+    authors: Pengsong Zhang, Alfredo Pearson, Zhenting Wang
+    conference_short: Preprint
+    conference: Researchgate, 2024.
+    pdf: http://dx.doi.org/10.13140/RG.2.2.35148.01923
+    # bibtex: ./assets\teaser\TMAG21.txt
+    image: ./assets\teaser\ags-preprint.png
 
-  # - title: Autonomous Generalist Scientist - Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)
-  #   authors: Pengsong Zhang, Alfredo Pearson, Zhenting Wang
-  #   conference_short: Preprint
-  #   conference: Researchgate, 2024.
-  #   pdf: http://dx.doi.org/10.13140/RG.2.2.35148.01923
-  #   # bibtex: ./assets\teaser\TMAG21.txt
-  #   image: ./assets\teaser\ags-preprint.png
+  - title: Awesome AI Scientist Papers
+    authors: <strong>Pengsong Zhang</strong>, Heng Zhang
+    conference_short: Github
+    conference: A collection of important papers to the field of AI Scientist and Robot Scientist, Github Repos, 2024.
+    # pdf: https://github.com/universea/Awesome-AI-Scientist-Papers
+    # bibtex: None #./assets\teaser\TMAG21.txt
+    image: ./assets\teaser\awesome-ai-scientist.jpg
+
+
 
   # - title: Adding 3D Geometry Control to Diffusion Models
   #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
