@@ -1,5 +1,12 @@
 main:
 
+  - title: Scaling Laws in Scientific Discovery with AI and Robot Scientists
+    authors: Pengsong Zhang, Heng Zhang, Huazhe Xu, Renjun Xu, Zhenting Wang, Cong Wang, Animesh Garg, Zhibin Li, Arash Ajoudani, Xinyu Liu
+    conference_short: arXiv
+    conference: Preprint <strong>(arXiv)</strong>, arXiv:2503.22444, 2025.
+    pdf: https://arxiv.org/pdf/2503.22444
+    # bibtex: None #./assets\teaser\TMAG21.txt
+    image: ./assets\teaser\Scalinglaws.jpg
 
   - title: Robotic microinjection enables large-scale transgenic studies of Caenorhabditis elegans
     authors: Peng Pan, Michael Zoberman, <strong>Pengsong Zhang</strong> et al.
