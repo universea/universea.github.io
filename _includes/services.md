@@ -8,6 +8,7 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41"><autocolor>IEEE Transactions on Industrial Electronics (TIE)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856"><autocolor>IEEE Transactions on Automation Science and Engineering (TASE)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7729"><autocolor>IEEE Transactions on Nanotechnolo (TNANO)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369"><autocolor>IEEE Robotics and Automation Letters (RAL)</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
