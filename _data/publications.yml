@@ -6,7 +6,7 @@ main:
     conference: Preprint <strong>(Preprint)</strong>, Preprint, 2025.
     pdf: ./assets\files\hrpwmttmvjfshxsjksjyqqkjqrmkmfkd.pdf
     # bibtex: None #./assets\teaser\TMAG21.txt
-    image: ./assets\teaser\aixiv.jpg
+    image: ./assets\teaser\aixiv.png
 
   - title: Scaling Laws in Scientific Discovery with AI and Robot Scientists
     authors: Pengsong Zhang, Heng Zhang, Huazhe Xu, Renjun Xu, Zhenting Wang, Cong Wang, Animesh Garg, Zhibin Li, Arash Ajoudani, Xinyu Liu
