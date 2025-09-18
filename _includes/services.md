@@ -2,6 +2,15 @@
 
 <h2 style="margin: 60px 0px 10px;">Services</h2>
 
+
+<h4 style="margin:0 10px 0;">Workshop Organizers</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://airobot4sci.github.io/"><autocolor>IROS 2025 AIR4S - Embodied AI and Robotics for Future Scientific Discovery</autocolor></a></li>
+</ul>
+
+
+
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
@@ -10,6 +19,8 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7729"><autocolor>IEEE Transactions on Nanotechnolo (TNANO)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369"><autocolor>IEEE Robotics and Automation Letters (RAL)</autocolor></a></li>
 </ul>
+
+
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
