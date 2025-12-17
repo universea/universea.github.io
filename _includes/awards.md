@@ -23,6 +23,19 @@
 
 <h4 style="margin:0 10px 0;">Honors</h4>
 <ul>
+
+  <li>
+    Helathcare Robotics Graduate Training Program, University of Toronto, Student Fellow, 2025
+  </li>
+
+  <li>
+    Mr. John H. Weber and Dr. Eleanor Connie Mariano Graduate Scholarship, 2025
+  </li>
+
+  <li>
+    Helathcare Robotics Graduate Training Program, University of Toronto, Student Fellow, 2024
+  </li>
+
   <li>
     Barbara And Frank Milligan Graduate Fellowships, 2024
   </li>
