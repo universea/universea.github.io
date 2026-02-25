@@ -3,6 +3,14 @@
 <h2 style="margin: 60px 0px 10px;">Services</h2>
 
 
+
+<h4 style="margin:0 10px 0;">Editors</h4>
+
+<ul style="margin:0 0 20px;">
+  <li>Associate Editor, <a href="https://iros2026.org/"><autocolor>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</autocolor></a></li>
+</ul>
+
+
 <h4 style="margin:0 10px 0;">Workshop Organizers</h4>
 
 <ul style="margin:0 0 20px;">
@@ -10,12 +18,6 @@
 </ul>
 
 
-
-<h4 style="margin:0 10px 0;">Editors</h4>
-
-<ul style="margin:0 0 20px;">
-  <li>Associate Editor, <a href="https://iros2026.org/"><autocolor>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</autocolor></a></li>
-</ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
