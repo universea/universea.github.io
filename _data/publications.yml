@@ -6,7 +6,7 @@ main:
     conference: Preprint <strong>(aiXiv)</strong>, aixiv.260224.000001, 2026. (Proposal, AI authored)
     pdf: https://aixiv.science/abs/aixiv.260224.000001
     # bibtex: None
-    image: ./assets/teaser/ai_scholar.png
+    image: ./assets/teaser/ai_scholar.jpg
 
   - title: "Synergy of robotics and microfluidics for intelligent micro- and nanomanipulation"
     authors: Mengmeng Xi*, <strong>Pengsong Zhang*</strong>, Junyue Dai, Jia Shi, Haoran Cui, Bowen Wang, Junhui Zhu, Peng PAN, Xinyu Liu <br> (* Equal contribution)
