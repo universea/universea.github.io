@@ -1,5 +1,13 @@
 main:
 
+  - title: "AI Scholar: Learning the Scientific Taste of Elite Researchers to Predict Future Discovery Trajectories"
+    authors: OpenAGS
+    conference_short: aiXiv
+    conference: Preprint <strong>(aiXiv)</strong>, aixiv.260224.000001, 2026. (Proposal, AI authored)
+    pdf: https://aixiv.science/abs/aixiv.260224.000001
+    # bibtex: None
+    image: ./assets/teaser/ai_scholar.png
+
   - title: "Synergy of robotics and microfluidics for intelligent micro- and nanomanipulation"
     authors: Mengmeng Xi*, <strong>Pengsong Zhang*</strong>, Junyue Dai, Jia Shi, Haoran Cui, Bowen Wang, Junhui Zhu, Peng PAN, Xinyu Liu <br> (* Equal contribution)
     conference_short: BMF
