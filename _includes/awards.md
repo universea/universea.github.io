@@ -25,7 +25,7 @@
 <ul>
 
   <li>
-    Helathcare Robotics Graduate Training Program, University of Toronto, Student Fellow, 2025
+    Healthcare Robotics Graduate Training Program, University of Toronto, Student Fellow, 2025
   </li>
 
   <li>
