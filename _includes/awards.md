@@ -33,7 +33,7 @@
   </li>
 
   <li>
-    Helathcare Robotics Graduate Training Program, University of Toronto, Student Fellow, 2024
+    Healthcare Robotics Graduate Training Program, University of Toronto, Student Fellow, 2024
   </li>
 
   <li>

@@ -1,6 +1,6 @@
 # Basic Information 
 title: Pengsong Zhang
-position: Ph.D. Candiate
+position: Ph.D. Candidate
 affiliation: University of Toronto
 affiliation_link: https://www.utoronto.ca/
 affiliation_logo: ./assets/img/uoft_logo.svg
@@ -10,7 +10,7 @@ email: pengsong.zhang (at) mail.utoronto.ca
 # Search Engine Optimization (SEO)
 keywords: pengsong zhang, zhang pengsong, pengsongzhang, zhangpengsong
 canonical: https://universea.github.io/
-description: Pengsong Zhang is a Ph.D. student at University of Toronto. His research lies in micro-/nano robotics, reinforcement learning, computer vision and LLM agents.
+description: Pengsong Zhang is a Ph.D. candidate at the University of Toronto working on microrobotics, artificial intelligence, and AI for science.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -32,7 +32,7 @@ favicon: ./assets/img/Utoronto_coa.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
-footnote: This pages was build with minimal-light.
+footnote: This page was built with minimal-light.
 footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics

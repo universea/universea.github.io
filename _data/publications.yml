@@ -1,10 +1,10 @@
 main:
 
-  - title: 3D Reconfigurable Magnetic Microswarms
+  - title: Three-Dimensional Reconfigurable Magnetic Microswarms with Boundary-Transcending Capabilities
     authors: <strong>Pengsong Zhang</strong>,  et al.
     #Pengfei Xu, Peng Pan, Yuntong Sun, Shaojia Wang, Runze 9 Zuo, Chongyu Zhang, Wentian Tang, Tiancong Wang, Yuhang Wang, Mingzhe Sun, Qiwu Zhang, Yuxiao Zhou, Yunkai Wang, Junyue Dai, Junhui Law, Wenkun Dou, Juntian Qu, Ren-Ke Li, Yu Sun, Xinyu Liu
     conference_short: SA
-    conference: Science Advances <strong>(SA)</strong> 2026 Accept.
+    conference: Science Advances <strong>(SA)</strong>. Accepted, 2026.
     # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
     # bibtex: None #./assets\teaser\TMAG21.txt
     image: ./assets\teaser\under-review.png
@@ -60,7 +60,7 @@ main:
   - title: Novel coil array design and modeling for independent control of multiple magnetic microrobots
     authors: Guangming Cui, <strong>Pengsong Zhang</strong>, Xinyu Liu, Linbo Xie, Wentao Huang, Peng Pan, Juntian Qu, Qigao Fan
     conference_short: TIE
-    conference: IEEE Transactions on Industrial Electronics <strong>(TIE)</strong>, Volume 70, Number 10, 2022.
+    conference: IEEE Transactions on Industrial Electronics <strong>(TIE)</strong>, Volume 70, Number 10, 2023.
     pdf: https://liulab.mie.utoronto.ca/wp-content/uploads/J105_Qigao_TIE.pdf
     bibtex: ./assets\teaser\TIE22.txt
     image: ./assets\teaser\TIE22.png
