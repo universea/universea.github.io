@@ -4,10 +4,10 @@ main:
     authors: <strong>Pengsong Zhang</strong>,  et al.
     #Pengfei Xu, Peng Pan, Yuntong Sun, Shaojia Wang, Runze 9 Zuo, Chongyu Zhang, Wentian Tang, Tiancong Wang, Yuhang Wang, Mingzhe Sun, Qiwu Zhang, Yuxiao Zhou, Yunkai Wang, Junyue Dai, Junhui Law, Wenkun Dou, Juntian Qu, Ren-Ke Li, Yu Sun, Xinyu Liu
     conference_short: SA
-    conference: Science Advances <strong>(SA)</strong>. Accepted, 2026.
-    # pdf: None #https://liulab.mie.utoronto.ca/wp-content/uploads/J90_Fan_T-MAG.pdf
+    conference: Science Advances <strong>(SA)</strong>, 12(37), eaeh4267, 2026.
+    pdf: https://doi.org/10.1126/sciadv.aeh4267
     # bibtex: None #./assets\teaser\TMAG21.txt
-    image: ./assets\teaser\under-review.png
+    image: ./assets/teaser/sciadv-microswarms.png
 
   - title: "AI Scholar: Learning the Scientific Taste of Elite Researchers to Predict Future Discovery Trajectories"
     authors: OpenAGS
