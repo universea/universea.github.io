@@ -8,9 +8,9 @@ layout: homepage
 
 I am currently a Ph.D. Candidate in the Department of Mechanical and Industrial Engineering at [University of Toronto](https://www.utoronto.ca/). I am fortunate to work with [Prof. Xinyu Liu](https://liulab.mie.utoronto.ca/).
 
-**I am currently seeking postdoctoral opportunities** in robotics, embodied AI, and AI for scientific discovery, and expect to complete my Ph.D. in December 2026.
-
 My research lies at the intersection of **robotics** and **artificial intelligence**, with a special focus on automated scientific discovery. My research interests include **Microrobotics**, **Robot Scientists**, **AI Scientists**, **Computer vision**, **3D reconstruction**, **Generative models**, **Reinforcement learning**, **LLM agents**, and **AI4S**.
+
+**I am currently seeking postdoctoral opportunities** in robotics, embodied AI, and AI for scientific discovery, and expect to complete my Ph.D. in December 2026.
 
 
 {% include_relative _includes/news.md %}
