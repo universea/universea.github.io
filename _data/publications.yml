@@ -1,15 +1,14 @@
 main:
 
   - title: "AI can widen science &mdash; but only if institutions stop rewarding the already measurable"
-    authors: Guowei Huang, Xiang Hu, <strong>Pengsong Zhang</strong>, Zhicheng Lin
+    authors: Guowei Huang, Xiang Hu, <strong>Pengsong Zhang</strong>, Zhicheng Lin <br> (Co-project leader)
     conference_short: Nature
-    conference: <strong>Nature</strong>, 658, 32&ndash;33, 2026. Comment.
+    conference: Nature <strong>(Comment)</strong>, 658, 32&ndash;33, 2026.
     article: https://www.nature.com/articles/d41586-026-02961-z
     doi: https://doi.org/10.1038/d41586-026-02961-z
     image: ./assets/teaser/nature-ai-widen-science.webp
     image_source: https://www.nature.com/articles/d41586-026-02961-z
     image_source_name: Nature
-    notes: Co-project leader
 
   - title: Three-dimensional reconfigurable magnetic microswarms with boundary-transcending capabilities
     authors: <strong>Pengsong Zhang</strong>, Pengfei Xu, Peng Pan, Yuntong Sun, Shaojia Wang, et al.
