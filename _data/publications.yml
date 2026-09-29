@@ -9,7 +9,7 @@ main:
     image: ./assets/teaser/nature-ai-widen-science.webp
     image_source: https://www.nature.com/articles/d41586-026-02961-z
     image_source_name: Nature
-    notes: Co-corresponding author
+    notes: Co-project leader
 
   - title: Three-dimensional reconfigurable magnetic microswarms with boundary-transcending capabilities
     authors: <strong>Pengsong Zhang</strong>, Pengfei Xu, Peng Pan, Yuntong Sun, Shaojia Wang, et al.
