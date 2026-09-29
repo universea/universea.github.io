@@ -10,16 +10,25 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;{% if link.image_source %}height: auto;{% endif %}">
+    <img src="{{ link.image }}" alt="{{ link.title | escape }}" class="teaser img-fluid z-depth-1" {% if link.image_source %}style="max-width: 100%; height: auto; margin-left: 0;"{% else %}style="width=100;height=40%"{% endif %}>
             <abbr class="badge">{{ link.conference_short }}</abbr>
+    {% if link.image_source %}
+    <small style="display: block; margin-top: 4px; font-size: 11px;">Image source: <a href="{{ link.image_source }}" target="_blank" rel="noopener">{{ link.image_source_name }}</a></small>
+    {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.article | default: link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
+      {% if link.article %}
+      <a href="{{ link.article }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Article</a>
+      {% endif %}
+      {% if link.doi %}
+      <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">DOI</a>
+      {% endif %}
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
